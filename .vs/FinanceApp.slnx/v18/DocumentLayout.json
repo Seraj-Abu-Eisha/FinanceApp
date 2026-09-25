@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\voltex\\documents\\asp.net projects\\financeapp\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\voltex\\documents\\asp.net projects\\financeapp\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\voltex\\documents\\asp.net projects\\financeapp\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\voltex\\documents\\asp.net projects\\financeapp\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\voltex\\documents\\asp.net projects\\financeapp\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\FinanceApp\\appsettings.json",
-              "RelativeDocumentMoniker": "FinanceApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\FinanceApp\\appsettings.json",
-              "RelativeToolTip": "FinanceApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-22T18:29:28.38Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -51,25 +34,24 @@
               "RelativeToolTip": "FinanceApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T18:27:59.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T18:27:59.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Expense.cs",
               "DocumentMoniker": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
               "RelativeDocumentMoniker": "FinanceApp\\Models\\Expense.cs",
               "ToolTip": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
               "RelativeToolTip": "FinanceApp\\Models\\Expense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T16:04:43.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FinanceAppContext.cs",
               "DocumentMoniker": "C:\\Users\\Voltex\\Documents\\asp.net Projects\\FinanceApp\\FinanceApp\\Data\\FinanceAppContext.cs",
               "RelativeDocumentMoniker": "FinanceApp\\Data\\FinanceAppContext.cs",
@@ -77,8 +59,7 @@
               "RelativeToolTip": "FinanceApp\\Data\\FinanceAppContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T15:36:55.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T15:36:55.529Z"
             }
           ]
         }
